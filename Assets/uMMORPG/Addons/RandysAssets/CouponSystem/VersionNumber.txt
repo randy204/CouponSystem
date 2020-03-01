@@ -1,0 +1,8 @@
+Coupon System for uMMORPG
+
+Version Info
+------------
+Addon: 1.0.2
+uMMORPG: 1.179-1.187+
+uMMORPG 2D: 1.55+
+uMMORPG CE: 2.7+

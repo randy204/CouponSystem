@@ -1,0 +1,15 @@
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+
+!/Assets/
+/Assets/*
+
+!/Assets/uMMORPG/
+/Assets/uMMORPG/*
+
+!/Assets/uMMORPG/Addons/
+/Assets/uMMORPG/Addons/*
+
+!/Assets/uMMORPG/Addons/RandysAssets/
