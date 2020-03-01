@@ -1,4 +1,4 @@
-#Randy's Assets - Coupon System for uMMORPG
+# Randy's Assets - Coupon System for uMMORPG
 This addon adds a coupon system for uMMORPG's Item Mall.
 
 ### Features
